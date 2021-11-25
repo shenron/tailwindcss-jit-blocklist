@@ -1,5 +1,7 @@
 # issue with blocklist and jit mode
 
+https://github.com/tailwindlabs/tailwindcss/issues/6198
+
 ## install
 
 > npm ci
